@@ -1,6 +1,6 @@
 # Codepath-Prework
 Codepath Pre-work Project 
-# Prework - *Name of App Here*
+# Prework - Color Changer
 
 Submitted by: Melita Madhurza
 
@@ -27,9 +27,29 @@ GIF created with Kap
 
 ## App Brainstorming (Step 4)
 
+1. Spotify
+* Personalized Playlists: Spotify's curated playlists, such as "Discover Weekly" and "Release Radar," introduce me to new music based on my preferences.
+* Offline Listening: Ability to download music and listen offline, which is perfect for when I'm traveling or have limited internet access.
+
+2. Google Photos
+* Unlimited Backup: Automatic backup of my photos and videos ensures that I never lose precious memories.
+* Search by People and Object: The ability to search for photos by people, friends, objects or content within them, such as "beach," "cat," or "sunset," makes it easy to find specific pictures.
+
+3. Airbnb
+* Home Sharing: Helps me to find unique accommodations and live like a local while traveling.
+* Host Reviews: Read reviews from previous guests to make informed decisions.
+
+4. LinkedIn
+* Professional Networking: Connect with colleagues and industry professionals.
+* Job Search, save and job alert: Search and apply for jobs, with features to highlight my skills and experience. Also I can save them for later and turn on the alert mode so that I can get notified if there’s any job posted which matches my criteria.
+
+5. Instagram
+* Archive: Instagram’s  Archive option shows me to see all my previous stories and memries
+* Post Save: Instagram’s save opton allow me to save people’s post and reels and I can watch them later.
+
 ## Notes
 
-I faced challenges while connecting UI to logic and rearranging the code
+I faced challenges while connecting UI to logic and rearranging the code but it was fun and I figured it out while playing with it.
 
 ## License
 
