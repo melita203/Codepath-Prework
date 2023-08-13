@@ -19,6 +19,8 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
+http://i.imgur.com/link/to/your/gif/file.gif
+
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
