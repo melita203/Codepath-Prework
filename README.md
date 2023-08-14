@@ -19,9 +19,9 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-http://i.imgur.com/link/to/your/gif/file.gif
+https://i.imgur.com/G4MBl5i.gif
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/G4MBl5i.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with Kap 
